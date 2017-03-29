@@ -1,0 +1,4 @@
+setspeed 5 rSPD
+settime 5 rTME
+setweight 60 rWGT
+Caldist rSPD rTME

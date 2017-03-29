@@ -1,0 +1,30 @@
+r0 	0000
+r1 	0001
+r2  	0010
+r3  	0011
+r4  	0100
+r5  	0101
+r6 	0110
+rGRD 	0111
+rWGT 	1000 
+rTME 	1001
+rSPD 	1010
+rIN	1011
+rOUT	1100
+rPC	1101
+rIR	1110
+rFR	1111
+setspeed	0000	
+settime		0001
+setweight	0010		
+setgrade	0011
+sjump		0100
+Caldist 	01010000
+Caloxygen       01010001
+caloburnt 	010100100000
+calmet		010100100001
+cspdinc		010100100010
+cspddec		010100100011
+hlt		0101001001000000
+
+

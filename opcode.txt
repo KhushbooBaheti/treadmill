@@ -1,0 +1,19 @@
+setspeed 5 rSPD
+settime  5 rTME
+L6:
+sjump L1
+L2:
+hlt
+setweight 65 rWGT
+L1:
+setgrade 1 rGRD
+Caldist rSPD rTME
+sjump L3
+L3:
+sjump L2
+L4:
+setspeed 1 rSPD
+L7:
+hlt
+
+
